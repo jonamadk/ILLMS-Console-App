@@ -1,0 +1,17 @@
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/bin/Debug/net7.0/Inter-Library-Mgmt-System
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/bin/Debug/net7.0/Inter-Library-Mgmt-System.deps.json
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/bin/Debug/net7.0/Inter-Library-Mgmt-System.runtimeconfig.json
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/bin/Debug/net7.0/Inter-Library-Mgmt-System.dll
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/bin/Debug/net7.0/Inter-Library-Mgmt-System.pdb
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/Inter-Library-Mgmt-System.csproj.AssemblyReference.cache
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/Inter-Library-Mgmt-System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/Inter-Library-Mgmt-System.AssemblyInfoInputs.cache
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/Inter-Library-Mgmt-System.AssemblyInfo.cs
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/Inter-Library-Mgmt-System.csproj.CoreCompileInputs.cache
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/Inter-Library-Mgmt-System.csproj.CopyComplete
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/Inter-Library-Mgmt-System.dll
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/refint/Inter-Library-Mgmt-System.dll
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/Inter-Library-Mgmt-System.pdb
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/Inter-Library-Mgmt-System.genruntimeconfig.cache
+/Users/manojadhikari/Projects/Inter-Library-Mgmt-System/Inter-Library-Mgmt-System/obj/Debug/net7.0/ref/Inter-Library-Mgmt-System.dll

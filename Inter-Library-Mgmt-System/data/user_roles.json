@@ -1,0 +1,17 @@
+﻿[
+  {
+    "roleId": "1",
+    "roleType": "Registered User",
+    "roleDescription": "Responsible for managing library operations, policies, and staff."
+  },
+  {
+    "roleId": "2",
+    "roleType": "Library Admin",
+    "roleDescription": "Responsible for managing library operations, policies, and staff."
+  },
+  {
+    "roleId": "3",
+    "roleType": "Library Manager",
+    "roleDescription": "Oversees the daily management of library resources and services."
+  }
+]

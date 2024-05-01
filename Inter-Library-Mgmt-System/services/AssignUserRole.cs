@@ -1,0 +1,24 @@
+﻿using System;
+using Inter_Library_Mgmt_System.models;
+namespace Inter_Library_Mgmt_System.services
+{
+	public class AssignUserRole
+	{
+		public AssignUserRole()
+		{
+
+
+		}
+
+		public void assign(String email, String roleType)
+		{
+			
+			RegisteredUser user = DataMapper.registeredUserMap[email];
+			user.display();
+			user.RoleType = roleType;
+			user.display();
+
+		}
+	}
+}
+

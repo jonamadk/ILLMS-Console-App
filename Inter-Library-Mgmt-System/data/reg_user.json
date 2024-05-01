@@ -1,0 +1,23 @@
+﻿[
+  {
+    "email": "user1@example.com",
+    "username": "user1",
+    "isRegistered": true,
+    "phoneNumber": "123-456-7890",
+    "roleType":  "RegUser"
+  },
+  {
+    "email": "user2@example.com",
+    "username": "user2",
+    "isRegistered": false,
+    "phoneNumber": "234-567-8901",
+    "roleType": "RegUser"
+  },
+  {
+    "email": "user3@example.com",
+    "username": "user3",
+    "isRegistered": true,
+    "phoneNumber": "345-678-9012",
+    "roleType": "RegUser"
+  }
+]
