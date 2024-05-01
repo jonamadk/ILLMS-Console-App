@@ -43,13 +43,13 @@ namespace Inter_Library_Mgmt_System.services
 
         public string SelectUserRoleFromList(List<string> roles)
         {
-            Console.WriteLine("Registered Users:");
+            Console.WriteLine("User Roles\n:");
             for (int i = 0; i < roles.Count; i++)
             {
                 Console.WriteLine($"{i + 1}. {roles[i]}");
             }
 
-            Console.Write("Please enter the number corresponding to the user you want to select: ");
+            Console.Write("Assign the User Role:");
             string input = Console.ReadLine();
 
             int selectedIndex;
